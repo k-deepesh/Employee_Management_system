@@ -1,8 +1,11 @@
 **Description**
-The Employee Management System is a simple Spring Boot application designed to manage employee records. It provides basic CRUD (Create, Read, Update, Delete) operations to handle employee data with authentication and authorization. Users with the appropriate roles can perform these operations securely.
+The Employee Management System is a simple Spring Boot application designed to manage employee records.
+It provides basic CRUD (Create, Read, Update, Delete) operations to handle employee data with authentication and authorization. 
+Users with the appropriate roles can perform these operations securely.
 In this application,the roles,name,password are provided implicitly using **InMemoryUserDetailsManager 
-**
+
 **Features**
+
 Add a new employee
 Retrieve details of an employee
 Update employee information
